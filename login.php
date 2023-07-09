@@ -6,8 +6,7 @@ class User
 
     private $usersTableName = 'users';
 
-    public function __construct($database, $host, $databaseUsername, $databaseUserPassword)
-    {
+    git 
         try {
 
             $this->dbh =
