@@ -4,6 +4,8 @@ class User
 {
     private $dbh;
 
+    Testing editing from github
+
     private $usersTableName = 'users';
 
     git 
